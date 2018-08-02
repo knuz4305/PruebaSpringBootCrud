@@ -1,0 +1,2 @@
+INSERT INTO jugador (id,primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,dorsal,posicion) VALUES (1,'Marcos','Javier','Canuz','Garcia','2015-09-01','9','Delantero');
+INSERT INTO jugador (id,primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,fecha_nacimiento,dorsal,posicion) VALUES (2,'Antonio','Josue','Cruz','Canuz','2015-09-01','13','Volante');
